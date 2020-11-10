@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/11/2020, 19:12:59
+    Author     : higor
+*/
+@media screen and (max-width: 700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+}
+
+@media screenand (min-width: 1000px){
+    .comentario{
+        width: 50%;
+    }
+}
